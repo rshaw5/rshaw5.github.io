@@ -44,5 +44,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  // Generate Configuration: https://nuxtjs.org/docs/configuration-glossary/configuration-generate#the-generate-property
+  generate: {
+    dir: 'docs'
   }
 }

@@ -1,5 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  mode: 'spa',
+  router: {
+    base: '/rshaw5-github.io',
+    mode: 'history',
+  },
+
   // Plguins for Tailwind: https://tailwindcss.com/docs/guides/nuxtjs#3
   postcss: {
     plugins: {

@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.6.0",
-    "@vitejs/plugin-vue": "^4.1.0",
+    "@vitejs/plugin-vue": "^4.2.0",
     "nuxt": "^3.3.1"
   }
 }
